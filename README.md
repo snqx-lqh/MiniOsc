@@ -16,7 +16,6 @@ PA1输入，PA4输出
 
 软件开发工具：KEIL MDK 5.29
 
-## 
+# 在线教程文档
 
-
-
+[mini示波器学习笔记 ](https://snqx-lqh.gitee.io/mini-osc-doc/)
